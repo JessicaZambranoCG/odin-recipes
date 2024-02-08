@@ -16,7 +16,7 @@ I carry out this project with the purpose of providing specific recipes for deli
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jessicazambranocg.github.io/odin-recipes/)
 
 
 ## Getting Started
