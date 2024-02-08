@@ -4,7 +4,7 @@
 
 > Projec recipes.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 I carry out this project with the purpose of providing specific recipes for delicious dishes, thanking Google for placing images and recipes that I can use as references.
 
