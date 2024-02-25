@@ -1,0 +1,61 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title{
+    background-color: white;
+    color:blue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.title1{
+    background-color: yellow;
+    font-size: 18px;
+    color:black
+}
+
+div.text{
+    color: red;
+    font-size: 24px;
+}
+
+div.small{
+    font-size: 18px;
+}
+
+.description, .bold{
+    color:green;
+    font-weight: 900;
+}
+
+.description{
+    font-size: 32px;
+}
+
+.bold{
+    font-size: 20px;
+}
+
+#list-ul{
+    color:rgb(235, 16, 16);
+    font-weight: 600;
+}
+
+.list{
+    background-color: aqua;
+}
+
+.list-ul, .list-ol{
+    font-size: 14px;
+}
+
+#list-ol{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslateblue;
+    font-weight: bold;
+}
+
+.document{
+    background-color: rgb(248, 131, 151);
+}
